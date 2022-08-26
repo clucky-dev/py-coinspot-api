@@ -1,3 +1,11 @@
 {
-    "makefile.extensionOutputFolder": "./.vscode"
+    "makefile.extensionOutputFolder": "./.vscode",
+    "cSpell.words": [
+        "automodule",
+        "genindex",
+        "maxdepth",
+        "modindex",
+        "quickstart",
+        "toctree"
+    ]
 }
